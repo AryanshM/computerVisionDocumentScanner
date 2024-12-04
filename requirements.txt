@@ -3,5 +3,4 @@ opencv-python
 numpy
 Pillow
 easyocr
-utlis
 re
