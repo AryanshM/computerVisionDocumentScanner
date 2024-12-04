@@ -2,7 +2,7 @@ import streamlit as st
 import cv2
 import numpy as np
 import os
-from "./utlis.py" import utlis
+import utlis
 import easyocr
 import re
 import time
